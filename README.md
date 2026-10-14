@@ -2,7 +2,7 @@
 
 A bash script that sets up, runs and archives logs for the attendance tracker app. The original source files are in `templates/` and I didn't change them.
 
-Video: (link here)
+Video: https://youtu.be/M59PDsW1Onk
 
 ## Running it
 
